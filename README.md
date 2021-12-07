@@ -1,4 +1,6 @@
 # Intelcia_Group
+## Lien Jira :https://briefao.atlassian.net/jira/software/projects/IG/boards/1/backlog
+
 Project context
 Intelcia est organisée par divisions implantées géographiquement (national et international) en des localités distinctes. Chaque division est identifiée par un numéro et possède un nom.
 
